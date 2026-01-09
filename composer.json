@@ -1,0 +1,26 @@
+{
+    "name": "phpzero/bank-api",
+    "description": "API REST para transações bancárias - Aprendendo PHP 8.4 e fundamentos de frameworks",
+    "type": "project",
+    "require": {
+        "php": "^8.4"
+    },
+    "require-dev": {},
+    "autoload": {
+        "psr-4": {
+            "PhpZero\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "PhpZero\\Tests\\": "tests/"
+        }
+    },
+    "config": {
+        "optimize-autoloader": true,
+        "sort-packages": true
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
+}
+
