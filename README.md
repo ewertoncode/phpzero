@@ -1,4 +1,4 @@
-#PHP Zero
+# PHP Zero
 
 Este é um projeto que busca estudar conceitos por traz de frameworks php como Symfony e Larevel.
 
