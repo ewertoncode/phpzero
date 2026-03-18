@@ -1,5 +1,5 @@
 # PHP Zero
 
-Este é um projeto que busca estudar conceitos por traz de frameworks php como Symfony e Larevel.
+Este é um projeto que busca estudar conceitos por traz de frameworks php como Symfony e Laravel.
 
-Constuindo do zero conceitos fundamentais como: Autoload (PSR4), Injeção e Inversão de dependência, Refrectors, Routing, etc..
+Constuindo do zero conceitos fundamentais como: Autoload, PSRs, Routing, Dependecy Injection, Dependency Inversion, Reflections, entre outros conceitos fundamentais.
